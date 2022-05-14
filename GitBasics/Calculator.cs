@@ -10,5 +10,9 @@ namespace GitBasics
         {
             return numberOne + NumberTwo;
         }
+        public static float Multiplication(float numberOne, float NumberTwo)
+        {
+            return numberOne * NumberTwo;
+        }
     }
 }
