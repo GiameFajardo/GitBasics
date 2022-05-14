@@ -14,5 +14,9 @@ namespace GitBasics
         {
             return numberOne * NumberTwo;
         }
+        public static float Division(float numberOne, float NumberTwo)
+        {
+            return numberOne / NumberTwo;
+        }
     }
 }
